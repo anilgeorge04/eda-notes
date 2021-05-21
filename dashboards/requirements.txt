@@ -1,5 +1,7 @@
+jupyterlab
 pandas
-numpy
 requests
-json
 matplotlib
+voila
+numpy
+
